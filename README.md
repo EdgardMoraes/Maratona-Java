@@ -13,14 +13,14 @@ Este curso é uma introdução completa à linguagem de programação **Java**, 
 
 ## 📌 Conteúdo do Curso
 
-| Módulo | Assunto                                               | Status     |
-|--------|--------------------------------------------------------|------------|
+| Módulo | Assunto                                               | Status |
+|--------|--------------------------------------------------------|--|
 | 01     | Introdução, configuração do ambiente, Hello World     | ✅ Concluído |
 | 02     | Tipos primitivos, operadores, casting                 | ✅ Concluído |
-| 03     | Estruturas condicionais e de repetição                | ✅ Concluído |
-| 04     | Arrays e laços aninhados                              | ✅ Concluído |
-| 05     | Métodos e sobrecarga                                  | ✅ Concluído |
-| 06     | Orientação a Objetos (POO) - Classes, Objetos         | 🔄 Em andamento |
+| 03     | Estruturas condicionais e de repetição                | 🔄 Em andamento|
+| 04     | Arrays e laços aninhados                              | ⏳ Em breve |
+| 05     | Métodos e sobrecarga                                  | ⏳ Em breve |
+| 06     | Orientação a Objetos (POO) - Classes, Objetos         | ⏳ Em breve |
 | 07     | Herança, Polimorfismo, Interfaces                     | ⏳ Em breve |
 | 08     | Exceptions, Enums, Modificadores de acesso            | ⏳ Em breve |
 | 09     | Pacotes, Static, Final, Wrapper classes               | ⏳ Em breve |
