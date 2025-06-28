@@ -1,4 +1,4 @@
-package Aula03_Operadores;
+package modulo02;
 
 public class Operadores {
     public static void main(String[] args) {
