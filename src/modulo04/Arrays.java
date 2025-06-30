@@ -15,6 +15,23 @@ public class Arrays {
         System.out.println(idades[0]);
         System.out.println(idades[1]);  // Agora ao imprimir será impresso os valores atribuidos 20, 30, 40
         System.out.println(idades[2]);
+
+        String[] nomes = new String[3];
+        nomes[0] = "Julian";
+        nomes[1] = "Samuel";
+        nomes[2] = "Thomas";
+
+        for (int i = 0; i < nomes.length; i++) {
+            System.out.println(nomes[i]);         // lógica para percorrer o array e imprimir os dados.
+        }
+
+        String[] nomes2 = new String[2];
+        nomes2[0] = "Edgard";
+        nomes2[1] = "Giulia";
+
+        for (String nome : nomes2){
+            System.out.println(nome);     // for each também percorre o array e imprime os dados, porém sem o indice
+        }
     }
 }
 
