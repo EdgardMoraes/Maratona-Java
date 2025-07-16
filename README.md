@@ -39,7 +39,7 @@ abordados desde os conceitos mais básicos até tópicos intermediários da ling
 
 ---
 
-## 🚀 Como usar este repositório
+_## 🚀 Como usar este repositório
 
 ```bash
 # Clone este repositório
@@ -48,4 +48,4 @@ git clone https://github.com/EdgardMoraes/Maratona-Java.git
 # Navegue até o diretório do curso
 cd java-devdojo
 
-# Abra na sua IDE preferida
+# Abra na sua IDE preferida_
